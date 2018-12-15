@@ -21,3 +21,13 @@ As expected, the country took to twitter to voice their opinions as twitter user
 I downloaded the data using twitter's api. Full documentaion and terms of the API are avilable at [developer.twitter.com/en/docs](https://developer.twitter.com/en/docs)
 
 I used a Naive Bayes Classifier (NB) to learn the correct labels from the training data. I used training dataset from [Kaggle](https://www.kaggle.com/c/twitter-sentiment-analysis/data) at kaggle.com. The dataset comes with prelabeled columns containing one of two binary targets. Zero(0) for Negative sentiment and One(1) for Positive sentiment. The data is made up of about 1 lakhs random tweets with corresponding sentiment labels.
+
+### This notebook is broken down into different Steps as follows:
+
+You can click on the section description to skip to that section directly.
+- Step 1: [Training Dataset Exploration]
+- Step 2: [Crawl Tweets Against Hash Tags]
+- Step 3: [Build a working dataframe and visualize data and do some data cleaning]
+- Step 4: [Text Pre-Processing for Sentiment Analysis]
+- Step 5: [Model Training and Evaluation]
+- Step 6: [Geoplots, Final Thoughts and Conclusions]
