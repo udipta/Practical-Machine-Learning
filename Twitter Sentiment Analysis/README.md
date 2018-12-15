@@ -25,9 +25,10 @@ I used a Naive Bayes Classifier (NB) to learn the correct labels from the traini
 ### This notebook is broken down into different Steps as follows:
 
 You can click on the section description to skip to that section directly.
-- Step 1: [Training Dataset Exploration]
-- Step 2: [Crawl Tweets Against Hash Tags]
-- Step 3: [Build a working dataframe and visualize data and do some data cleaning]
-- Step 4: [Text Pre-Processing for Sentiment Analysis]
-- Step 5: [Model Training and Evaluation]
-- Step 6: [Geoplots, Final Thoughts and Conclusions]
+### Step 1: Training Dataset Exploration
+### Step 2: Crawl Tweets Against Hash Tags
+### Step 3: Build a working dataframe and visualize data and do some data cleaning
+### Step 4: Text Pre-Processing for Sentiment Analysis
+### Step 5: Model Training and Evaluation
+### Step 6: Geoplots, Final Thoughts and Conclusions
+
