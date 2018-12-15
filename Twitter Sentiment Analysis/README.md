@@ -4,7 +4,7 @@
 ###### Dec 15 2018
 .
 
-Twitter is an online social network with over 330 million active monthly users as of February 2018. Users on twitter create short messages called tweets to be shared with other twitter users who interact by sharing (retweeting) and / or responding. Twitter employs a message size restriction of 280 characters or less which forces the users to stay focused on the message they wish to disseminate. This very characteristic makes messages from twitter a good candidate for Natural Language Processing (NLP) machine learning tasks like sentiment analysis.
+Twitter is an online social network with over 330 million active monthly users as of Dec 2018. Users on twitter create short messages called tweets to be shared with other twitter users who interact by sharing (retweeting) and / or responding. Twitter employs a message size restriction of 280 characters or less which forces the users to stay focused on the message they wish to disseminate. This very characteristic makes messages from twitter a good candidate for Natural Language Processing (NLP) machine learning tasks like sentiment analysis.
 
 
 #### Rafale Deal Verdict in India!
